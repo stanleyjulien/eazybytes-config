@@ -5,6 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
+    #{cipher} is to tell spring that the remain characters are encrypted chars that it need to decrypt them
     email: "{cipher}7a8e02d32a4bda60cff12de9ff861938951713a9cfbb35625e0e87a47d7e9a9aa19240dfba90e7702c3984c8fb5b04e8"
   onCallSupport:
     - (453) 392-4829
